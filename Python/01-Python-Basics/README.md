@@ -1,23 +1,34 @@
-# Python - Basics
+# Day 01 - Python Basics
 
-This folder contains my Day 1 learning and practical work in Python as part of the Data and Business Analysis with AI program.
+This folder contains my Day 1 Python practical work from the Data and Business Analysis with AI program.
 
 ## Topics Covered
 
 - Introduction to Python
-- Python Syntax
 - Variables
-- Data Types
+- Escape Sequences
 - Input and Output
 - Operators
-- Basic Python Programs
+- Data Types
+- Strings
+- String Indexing
+- String Slicing
+- String Stepping
+- String Methods
 
-## Tools Used
+## Practical Work
+
+The notebook contains Python examples and exercises covering the topics learned during Day 1.
+
+## Tool Used
 
 - Python
 - Jupyter Notebook
-- VS Code
 
 ## Learning Objective
 
-To understand the fundamentals of Python programming and develop a strong foundation for data analysis.
+To understand the basic concepts of Python programming and practice them using Jupyter Notebook.
+
+## Notebook
+
+[Day-01-Python-Basics.ipynb](Day-01-Python-Basics.ipynb)
