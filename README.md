@@ -70,11 +70,10 @@ This repository documents my progress from learning individual tools to applying
 
 To develop practical skills in data analytics and business analytics and build a strong portfolio of real-world projects.
 
-
 ## Learning Progress
 
 ### Python
 
-- [x] Day 01 - Python Basics
+- [x] Day 01 - Python Basics.
 
 More topics and daily practical work will be added as I progress through the program.
