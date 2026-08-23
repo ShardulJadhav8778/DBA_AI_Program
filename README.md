@@ -76,5 +76,6 @@ To develop practical skills in data analytics and business analytics and build a
 
 - [x] Day 01 - Python Basics.
 - [x] Day 02 - Typecasting and Conditional Statements
+- [x] Day 03 - Loops and Lists
 
 More topics and daily practical work will be added as I progress through the program.
