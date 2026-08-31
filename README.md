@@ -81,5 +81,6 @@ To develop practical skills in data analytics and business analytics and build a
 - [x] Day 05 - Sets, Nested Loops and Patterns
 - [x] Day 06 - List Comprehension and Functions
 - [x] Day 07 - Advanced Functions and Lambda
+- [x] Day 08 - Exception Handling, Modules, Packages and OOP
 
 More topics and daily practical work will be added as I progress through the program.
