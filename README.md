@@ -82,5 +82,6 @@ To develop practical skills in data analytics and business analytics and build a
 - [x] Day 06 - List Comprehension and Functions
 - [x] Day 07 - Advanced Functions and Lambda
 - [x] Day 08 - Exception Handling, Modules, Packages and OOP
+- [x] Day 09 - OOP, Classes and Objects
 
 More topics and daily practical work will be added as I progress through the program.
