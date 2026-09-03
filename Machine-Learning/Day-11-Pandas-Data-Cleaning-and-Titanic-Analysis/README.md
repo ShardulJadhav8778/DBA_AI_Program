@@ -72,6 +72,22 @@ The notebook contains practical examples of Pandas data cleaning and analysis us
 - Pandas
 - Matplotlib
 
+## Dataset
+
+The Day 11 practical work uses the Titanic dataset in two forms:
+
+- `Titanic-Dataset-Unclean.csv` - Original dataset containing missing values and the original columns.
+- `Titanic-Dataset-Clean.csv` - Cleaned dataset after applying data-cleaning operations.
+
+## Data Cleaning Tasks
+
+- Identifying missing values
+- Handling missing values
+- Removing unnecessary columns
+- Renaming columns
+- Working with cleaned categorical and numerical data
+
+
 ## Learning Objective
 
 To understand practical data cleaning techniques in Pandas and apply them to a real-world dataset. The Titanic dataset is used to practice missing-value handling, duplicate removal, column manipulation, grouping, aggregation, and basic data visualization.
