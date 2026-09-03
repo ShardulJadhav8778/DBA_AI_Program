@@ -87,5 +87,6 @@ To develop practical skills in data analytics and business analytics and build a
 ### Machine Learning
 
 - [x] Day 10 - Pandas Introduction
+- [x] Day 11 - Pandas Data Cleaning and Titanic Analysis
 
 More topics and daily practical work will be added as I progress through the program.
